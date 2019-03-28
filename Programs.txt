@@ -1,4 +1,4 @@
-.txt	|gedit 	|<File Path>
+.txt_	|gedit 	|<File Path>
 .pdf	|evince 	|--page-label=,*,<Page>,*, ,*,<File Path>
 .html	|firefox 	|<File Path>
 .URL	|firefox 	|<File Path>
