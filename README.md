@@ -1,5 +1,7 @@
 # memory-cards
 
+![screenshots](/screenshot.png)
+
 Little python software I made while studyng in Uni, for remembering boring biological notions.
 You write cards with questions and answers and, during a test session, it shows to you what it thinks is the question that you will most probably fail.
 The Q/A will be showed using your default text editor.
