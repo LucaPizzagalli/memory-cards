@@ -1,4 +1,4 @@
-# memory-cards
+# Memory Cards
 
 ![screenshots](/screenshot.png)
 
